@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/styles.css">
+    <link rel="stylesheet" href="~/css/proyectos.css">
+    <title>Proyectos</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <nav>
+        <ul>
+          <li>
+            <form action="/" method="GET">
+              <button class="item-nav">Inicio</button>
+            </form>            
+          </li>
+          <li>
+            <form action="/Proyectos" method="GET">
+              <button class="item-nav">Proyectos</button>
+            </form>            
+          </li>
+          <li>
+            <form action="/Contacto" method="GET">
+              <button class="item-nav">Contacto</button>
+            </form>            
+          </li>          
+        </ul>
+      </nav>
+      <section>
+        <h2>Proyectos</h2>
+        <div class="list-proyectos">
+          <div class="proyecto">
+            <div class="imagen">
+              <img src="~/img/proyectos/nitzii.png" alt="imagen proyecto">
+            </div>
+            <div class="contenido">
+              <h3>Red Social NitZii</h3>
+              <p>Red social enfocada en la crítica y calificación de películas.</p>
+            </div>
+          </div>
+          <div class="proyecto">
+            <div class="imagen">
+              <img src="~/img/proyectos/pacman.png" alt="imagen proyecto">
+            </div>
+            <div class="contenido">
+              <h3>Pacman Alternativo</h3>
+              <p>Versión alternativa de Pacman realizada en HTML, CSS y JavaScript.</p>
+              <a href="https://rodrigoahumadae.github.io/pacmanAlternativo/" target="_blank">Pacman</a>
+            </div>
+          </div>
+          <div class="proyecto">
+            <div class="imagen">
+              <img src="~/img/proyectos/reloj.png" alt="imagen proyecto">
+            </div>
+            <div class="contenido">
+              <h3>Reloj Análogo</h3>
+              <p>Reloj análogo realizado en HTML, CSS y JavaScript.</p>
+              <a href="https://rodrigoahumadae.github.io/relojAnalogo/" target="_blank">Reloj</a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </body>
+
+</html>

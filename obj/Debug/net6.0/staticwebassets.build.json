@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "mB4Whi0RAPe6Maa8sshCefssALexdgrOR1JCViuprSI=",
+  "Source": "PortafolioI",
+  "BasePath": "_content/PortafolioI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PortafolioI\\wwwroot",
+      "Source": "PortafolioI",
+      "ContentRoot": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\",
+      "BasePath": "_content/PortafolioI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\css\\proyectos.css",
+      "SourceId": "PortafolioI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\",
+      "BasePath": "_content/PortafolioI",
+      "RelativePath": "css/proyectos.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\proyectos.css"
+    },
+    {
+      "Identity": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\css\\styles.css",
+      "SourceId": "PortafolioI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\",
+      "BasePath": "_content/PortafolioI",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\img\\perfil.png",
+      "SourceId": "PortafolioI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\",
+      "BasePath": "_content/PortafolioI",
+      "RelativePath": "img/perfil.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\perfil.png"
+    }
+  ]
+}
