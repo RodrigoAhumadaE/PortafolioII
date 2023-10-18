@@ -5,7 +5,7 @@
 
 body{
   font-family: Roboto;
-  background-color: #E7E9EE;
+  background-color:var(--sexto);
 }
 
 .container{
@@ -23,7 +23,7 @@ nav{
   height: 30px;
   display: flex;
   justify-content: center;
-  background-color: #1C2135;
+  background-color: var(--primero);
 }
 
 nav ul{
@@ -31,20 +31,20 @@ nav ul{
   display: flex;
   justify-content: space-around;
   align-items: center;
-  color: white;
+  color: var(--sexto);
   list-style: none;
 }
 
 .item-nav{
   border: none;
-  background-color: #1C2135;
-  color: #E7E9EE;
+  background-color: var(--primero);
+  color: var(--sexto);
   cursor: pointer;
   transition: 300ms;
 }
 
 .item-nav:hover{
-  color: #5A6794;
+  color: var(--tercero);
 }
 
 section{
@@ -85,7 +85,7 @@ section{
   max-width: 200px;
   width: 100%;
   border-radius: 15px;
-  box-shadow: -20px 20px 0 #1C2135;
+  box-shadow: -20px 20px 0 var(--primero);
 }
 
 .texto{
@@ -98,7 +98,7 @@ section{
 
 .texto h4{
   text-align: center;
-  color: #5A6794;
+  color: var(--tercero);
 }
 
 .der{
@@ -113,9 +113,10 @@ section{
 }
 
 .der article{
-  background-color: #D8CDB0;
+  background-color: var(--cuarto);
   border-radius: 25px;
   padding: 20px;
+  box-shadow: 0 0 10px var(--tercero);
 }
 
 .der p{

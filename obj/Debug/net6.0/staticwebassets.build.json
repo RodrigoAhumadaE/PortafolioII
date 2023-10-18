@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mB4Whi0RAPe6Maa8sshCefssALexdgrOR1JCViuprSI=",
+  "Hash": "JRiL5bkRdTltzuQBJ5pyoBcisNSLChu//d2oGIdXsNc=",
   "Source": "PortafolioI",
   "BasePath": "_content/PortafolioI",
   "Mode": "Default",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\css\\colores.css",
+      "SourceId": "PortafolioI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\",
+      "BasePath": "_content/PortafolioI",
+      "RelativePath": "css/colores.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\colores.css"
+    },
+    {
+      "Identity": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\css\\contacto.css",
+      "SourceId": "PortafolioI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\",
+      "BasePath": "_content/PortafolioI",
+      "RelativePath": "css/contacto.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\contacto.css"
+    },
     {
       "Identity": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\css\\proyectos.css",
       "SourceId": "PortafolioI",
@@ -66,6 +100,57 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\perfil.png"
+    },
+    {
+      "Identity": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\img\\proyectos\\nitzii.png",
+      "SourceId": "PortafolioI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\",
+      "BasePath": "_content/PortafolioI",
+      "RelativePath": "img/proyectos/nitzii.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\proyectos\\nitzii.png"
+    },
+    {
+      "Identity": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\img\\proyectos\\pacman.png",
+      "SourceId": "PortafolioI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\",
+      "BasePath": "_content/PortafolioI",
+      "RelativePath": "img/proyectos/pacman.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\proyectos\\pacman.png"
+    },
+    {
+      "Identity": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\img\\proyectos\\reloj.png",
+      "SourceId": "PortafolioI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\",
+      "BasePath": "_content/PortafolioI",
+      "RelativePath": "img/proyectos/reloj.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\proyectos\\reloj.png"
     }
   ]
 }

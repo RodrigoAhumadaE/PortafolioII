@@ -13,7 +13,7 @@ public class PrincipalController : Controller{
   }
 
   [HttpGet("/contacto")]
-  public string Contacto(){
-    return "Aquí puedes contactarme!!";
+  public ViewResult Contacto(){
+    return View("Contacto");
   }
 }

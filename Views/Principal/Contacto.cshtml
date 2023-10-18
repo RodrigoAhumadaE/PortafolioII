@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/styles.css">
+    <link rel="stylesheet" href="~/css/contacto.css">
+    <link rel="stylesheet" href="~/css/colores.css">
+    <title>Contacto</title>
+  </head>
+  <body>
+    <div class="container">
+      <nav>
+        <ul>
+          <li>
+            <form action="/" method="GET">
+              <button class="item-nav">Inicio</button>
+            </form>            
+          </li>
+          <li>
+            <form action="/Proyectos" method="GET">
+              <button class="item-nav">Proyectos</button>
+            </form>            
+          </li>
+          <li>
+            <form action="/Contacto" method="GET">
+              <button class="item-nav">Contacto</button>
+            </form>            
+          </li>          
+        </ul>
+      </nav>
+      <section>
+        <h2>Formulario de contacto</h2>
+        <form class="contacto">
+          <div class="item">
+            <label for="nombre">Nombre: </label>
+            <input class="ingreso" type="text" name="nombre" id="nombre">
+          </div>
+          <div class="item">
+            <label for="correo">Email: </label>
+            <input class="ingreso" type="email" name="correo" id="correo">
+          </div>
+          <div class="item textarea">
+            <label for="mensaje">Mensaje: </label>
+            <textarea class="ingreso" name="mensaje" id="mensaje" rows="5"></textarea>
+          </div>
+          <div class="item button">
+            <button class="enviar">Enviar</button>
+          </div>
+        </form>
+      </section>      
+    </div>
+  </body>
+</html>

@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\PortafolioII
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Rodrigo/Bootcamp Sonda/C\#-.Net/practicas/C\#.Net/PortafolioII/Views/Principal/Contacto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpbmNpcGFsXENvbnRhY3RvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Rodrigo/Bootcamp Sonda/C\#-.Net/practicas/C\#.Net/PortafolioII/Views/Principal/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpbmNpcGFsXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
