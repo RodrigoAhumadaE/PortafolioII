@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JRiL5bkRdTltzuQBJ5pyoBcisNSLChu//d2oGIdXsNc=",
+  "Hash": "lLma9MmwOyPxepwQKAMw2WvmgGWbZKVdTh615DUipso=",
   "Source": "PortafolioI",
   "BasePath": "_content/PortafolioI",
   "Mode": "Default",
@@ -151,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\proyectos\\reloj.png"
+    },
+    {
+      "Identity": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\js\\index.js",
+      "SourceId": "PortafolioI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Rodrigo\\Bootcamp Sonda\\C#-.Net\\practicas\\C#.Net\\PortafolioII\\wwwroot\\",
+      "BasePath": "_content/PortafolioI",
+      "RelativePath": "js/index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\index.js"
     }
   ]
 }

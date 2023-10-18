@@ -32,7 +32,7 @@
       </nav>
       <section>
         <h2>Formulario de contacto</h2>
-        <form class="contacto">
+        <form class="contacto" action="/" method="GET">
           <div class="item">
             <label for="nombre">Nombre: </label>
             <input class="ingreso" type="text" name="nombre" id="nombre">
@@ -46,10 +46,11 @@
             <textarea class="ingreso" name="mensaje" id="mensaje" rows="5"></textarea>
           </div>
           <div class="item button">
-            <button class="enviar">Enviar</button>
+            <button class="enviar" onclick="respuesta()">Enviar</button>
           </div>
         </form>
       </section>      
     </div>
+    <script src="~/js/index.js"></script>
   </body>
 </html>
